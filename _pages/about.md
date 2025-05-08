@@ -1,8 +1,11 @@
 ---
-layout: home        # uses the special “home” layout
-title: "About Me"
-permalink: /        # ← tells Jekyll “this is / (index.html)”
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 Hey there.
