@@ -11,35 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Economics, University of Rome "Tor Vergata", 2025
+* M.SC. in Economics, University of Rome "Tor Vergata", 2018
+* M.SC. in Philosophy of the Social Scienes, London School of Economics, 2016
 
 Publications
 ======
@@ -47,18 +21,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences & Workshops
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>
+  <li><strong>EARIE Annual Conference</strong>, 52nd Meeting – Valencia, Upcoming (August 2025)</li>
+  <li><strong>Oligo Workshop</strong>, 13th Meeting – Cambridge, June 2025</li>
+  <li><strong>NERI Workshop</strong>, 15th Meeting – Pescara, May 2025</li>
+  <li><strong>Rome PhD in Economics and Finance Conference</strong>, 3rd Edition – Rome, September 2024</li>
+  <li><strong>Tor Vergata Ph.D. Conference in Economics</strong>, 1st Edition – Rome, September 2024</li>
+</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+  <li><strong>Microeconomics</strong> (graduate, TA) – University of Rome Tor Vergata (2020–2023)</li>
+  <li><strong>Industrial Organization</strong> (bachelor, TA) – University of Rome Tor Vergata (2024–present)</li>
+  <li><strong>Microeconomics</strong> (graduate, co-lecturer) – Luiss "Guido Carli" University (2023–present)</li>
+  <li><strong>Public Economics</strong> (graduate, TA) – Luiss "Guido Carli" University (2024–present)</li>
+</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+  
+
